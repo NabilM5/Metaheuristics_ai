@@ -72,4 +72,6 @@ The notebook includes a 5–7 slide outline. Add your repository link in the las
 
 ## Presentation
 
-Google Drive presentation link: `<https://docs.google.com/presentation/d/1-XH3mdakVg84d0b8cZ98_YR3V9-ZBZ7XFLbEWcwXB3k/edit?usp=sharing>`
+Google Drive presentation link: https://docs.google.com/presentation/d/1-XH3mdakVg84d0b8cZ98_YR3V9-ZBZ7XFLbEWcwXB3k/edit?usp=sharing
+
+Google Colab link: https://colab.research.google.com/drive/1M5Oxbi-ieE_oFlYjSClY8HIYXtpDnPgh?usp=sharing
